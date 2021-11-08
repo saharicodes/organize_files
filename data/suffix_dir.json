@@ -1,0 +1,13 @@
+{
+    ".png": "images",
+    ".jpeg": "images",
+    ".jpg": "images",
+    ".pdf": "docs",
+    ".csv": "docs",
+    ".zip": "compressed",
+    ".rar": "compressed",
+    ".deb": "executable",
+    ".app": "other",
+    ".dmg": "other",
+    ".pth": "other"
+}
